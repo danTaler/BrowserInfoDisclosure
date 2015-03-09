@@ -1,9 +1,8 @@
 '''
 Created on 17 Feb 2015
 
-@author: John
+@author: Dan (Idan) Taler
 
-1. Ensure
 '''
 from db_test import SQL_query
 '''
