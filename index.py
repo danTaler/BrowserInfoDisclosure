@@ -4,7 +4,7 @@ Created on 17 Feb 2015
 @author: Dan (Idan) Taler
 
 '''
-from db_test import SQL_query
+#from db_test import SQL_query
 '''
 bb = win32crypt.CryptUnprotectData(u"john",u"psw", None, None, 0)
 print str(binascii.hexlify(bb)).upper()
