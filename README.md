@@ -1,7 +1,6 @@
 <h1>ChromeDataDump</h1>
 
-This is a -POST Exploitation- broswer sensitive files dump.
-This program attempts to dump sensitive/personal information from gmail such as:
+This tool attempts to dump Chrome's saved sensitive user's data:
 
 1. credentials stored in browsers.
 2. Autofill data
