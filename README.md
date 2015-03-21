@@ -1,5 +1,5 @@
 <h1>ChromeDataDump</h1>
-
+<h3>By: Idan Taler</h3>
 This tool attempts to dump Chrome's saved sensitive user's data:
 
 1. credentials stored in browsers.
