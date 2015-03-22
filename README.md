@@ -17,8 +17,10 @@ C:\%APPDATA%\AppData\Local\Google\Chrome\User Data\Default\Cookies
 **Useage:** (for Python 2.7)
 <br>
 *C:/> chrome.py*
+<br>
 *C:/> chrome.py > myPasswords.txt*
 
-<h3>Added Features not Seen in Other Tools:<3>
+<h4>Added Features not Seen in Other Tools:<
 - This source code is publically available, you shouldn't execute other commercial tools on your/clients systems.
 - Kill the Chrome's processes if data cannot be extracted. Latest Chrome at the time of writing has a new feature that will not allow you to extract its data if it's running.
+- </h4>
