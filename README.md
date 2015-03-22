@@ -5,6 +5,7 @@ This tool attempts to dump Chrome's saved sensitive user's data:
 1. credentials stored in browsers.
 2. Autofill data
 3. Cookies
+4. Credit Cards
 
 It extracts the data from the local broswer's files stored in Windows for the current active user using SQLiTE database commands and Windows API Crypt32.dll and decrypts the encrypted values using the CryptUnprotectData module built on python 'win32crypt' plugin.
 
