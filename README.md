@@ -15,6 +15,7 @@ C:\%APPDATA%\AppData\Local\Google\Chrome\User Data\Default\Web Data
 C:\%APPDATA%\AppData\Local\Google\Chrome\User Data\Default\Cookies 
 
 **Useage:** (for Python 2.7)
+<br>
 Windows:
 *C:/> chrome.py*
 
