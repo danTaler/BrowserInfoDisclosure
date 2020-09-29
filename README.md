@@ -1,6 +1,6 @@
-## 2018 - Unsupported version:
+## 2015 - Unsupported version:
 
-I have written this script at 2018 when existing frameworks did not inlucde password dumps fro browsers. 
+I have written this script at 2015 when existing frameworks did not inlucde password dumps fro browsers. 
 These days there are many and better scripts to pull creds from browsers using popular frameworks (Empire, MSF...).
 
 
