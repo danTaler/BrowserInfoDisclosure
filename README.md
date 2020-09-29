@@ -1,4 +1,4 @@
-<h4>Update 2018:</h4> I have written this script more than 4 years ago. These days almost all hacking frameworks (Empire, MSF...) have modules to obtain browser's data.
+##<h4>Update 2018:</h4> I have written this script more than 4 years ago. These days almost all hacking frameworks (Empire, MSF...) have modules to obtain browser's data.
 
 <h1>ChromeDataDump</h1>
 <h3>By: Idan Taler</h3>
