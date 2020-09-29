@@ -1,4 +1,9 @@
-##<h4>Update 2018:</h4> I have written this script more than 4 years ago. These days almost all hacking frameworks (Empire, MSF...) have modules to obtain browser's data.
+## 2018 - Unsupported version:
+
+I have written this script at 2018 when existing frameworks did not inlucde password dumps fro browsers. 
+These days there are many and better scripts to pull creds from browsers using popular frameworks (Empire, MSF...).
+
+
 
 <h1>ChromeDataDump</h1>
 <h3>By: Idan Taler</h3>
